@@ -1,0 +1,64 @@
+
+.button-box{
+  text-align: center;
+  width: 100%;
+}
+
+.btn-style{
+color: #ffffff;
+margin: 1em 1em 0 0;
+}
+
+
+.btn-login{
+  font-weight: bold;
+  background-color: #999494;
+  border-color: #999494;
+}
+
+.btn-new{
+  font-weight: bold;
+  background-color: #999494;
+  border-color: #999494;
+}
+
+.btn-fb{
+  font-weight: bold;
+  background-color:blue;
+  border-color: blue;
+}
+
+.btn-google{
+  font-weight: bold;
+  background-color: red;
+  border-color: red;
+}
+
+
+.transition{
+  display: inline;
+}
+
+p{
+  text-align: center;
+}
+
+
+/*
+.btn {
+  border: none;
+  background: inherit;
+  padding: 0.75em 2em;
+  text-decoration: none;
+  text-align: center;
+}
+
+  .btn-primary {
+    background: #74BEBE;
+    color: white;
+  }
+
+  .btn-warning {
+    background: #fa7d7d;
+    color: white;
+  }*/
